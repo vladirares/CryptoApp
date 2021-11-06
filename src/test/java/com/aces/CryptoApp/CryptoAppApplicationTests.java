@@ -8,6 +8,7 @@ class CryptoAppApplicationTests {
 
 	@Test
 	void contextLoads() {
+
 	}
 
 }
